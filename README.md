@@ -1,7 +1,8 @@
 # Bowling Game Project
 
 This repository contains the code for a bowling game implemented in Unity. The game features realistic pin behavior, collision detection, and a controllable bowling ball. Players aim to knock down all the pins to complete the level.
-
+# itcho link
+https://ibrahim3999.itch.io/bowling
 ## Features
 - **Pin System**: Detects when pins fall and keeps track of the number of fallen pins.
 - **Level Management**: Automatically progresses to the next level when all pins are knocked down.
